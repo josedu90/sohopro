@@ -1,0 +1,3241 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GT3Themes WP\n"
+"POT-Creation-Date: 2019-05-29 09:33+0300\n"
+"PO-Revision-Date: 2016-02-19 14:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: GT3Themes <help@gt3themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: core/tgm\n"
+
+#: 404.php:5
+msgid "404"
+msgstr ""
+
+#: 404.php:6
+msgid "Oops! Page not found!"
+msgstr ""
+
+#: 404.php:8
+msgid "Either Something Get Wrong or the Page Doesn't Exist Anymore."
+msgstr ""
+
+#: 404.php:11
+msgid "take me home"
+msgstr ""
+
+#: attachment.php:12 category.php:10
+msgid "Welcome to Blog"
+msgstr ""
+
+#: attachment.php:19 functions.php:783
+msgid "attachment image"
+msgstr ""
+
+#: bloglisting.php:58 core/vc/modules/gt3_blog_related/init.php:26
+#: core/vc/modules/gt3_shop_list/init.php:64 functions.php:1713 search.php:32
+#: single.php:74 vc_templates/gt3_blog_listing.php:69
+msgid "Date"
+msgstr ""
+
+#: bloglisting.php:59 core/vc/modules/gt3_shop_list/init.php:65 search.php:33
+#: single.php:75 vc_templates/gt3_blog_listing.php:70
+msgid "Author"
+msgstr ""
+
+#: bloglisting.php:60 single.php:76 vc_templates/gt3_blog_listing.php:71
+msgid "Category"
+msgstr ""
+
+#: bloglisting.php:61 comments.php:18 single.php:77
+#: vc_templates/gt3_blog_listing.php:72
+msgid "Comments"
+msgstr ""
+
+#: bloglisting.php:80 functions.php:1203 search.php:37
+#: vc_templates/gt3_blog_listing.php:85
+msgid "Read More"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:45
+msgid "Name *"
+msgstr ""
+
+#: comments.php:46
+msgid "Email *"
+msgstr ""
+
+#: comments.php:47
+msgid "URL"
+msgstr ""
+
+#: comments.php:49
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:52
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Comment"
+msgstr ""
+
+#: comments.php:55
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:55
+msgid "Log out?"
+msgstr ""
+
+#: core/license_verification/license_verification.php:46
+msgid "Activate"
+msgstr ""
+
+#: core/license_verification/license_verification.php:47
+msgid "Deactivate"
+msgstr ""
+
+#: core/license_verification/license_verification.php:48
+msgid "Refresh Activation"
+msgstr ""
+
+#: core/license_verification/license_verification.php:53
+msgid ""
+"To unlock all theme features and get auto-updates, please activate the "
+"theme. Enter your purchase code and click \"Activate\". Don't know where the "
+"purchase code is? "
+msgstr ""
+
+#: core/license_verification/license_verification.php:53
+msgid "Click here."
+msgstr ""
+
+#: core/license_verification/license_verification.php:66
+#: core/license_verification/license_verification.php:113
+msgid "Next Step"
+msgstr ""
+
+#: core/license_verification/license_verification.php:67
+#: core/license_verification/license_verification.php:114
+msgid "It's time to protect your purchase code."
+msgstr ""
+
+#: core/license_verification/license_verification.php:69
+#: core/license_verification/license_verification.php:116
+msgid ""
+"Enter your email address to bind the purchase code. We will create a "
+"customer account for you by using your email address."
+msgstr ""
+
+#: core/license_verification/license_verification.php:70
+#: core/license_verification/license_verification.php:117
+msgid "After that, you will be able to:"
+msgstr ""
+
+#: core/license_verification/license_verification.php:72
+#: core/license_verification/license_verification.php:119
+msgid "View where your purchase code is used."
+msgstr ""
+
+#: core/license_verification/license_verification.php:73
+#: core/license_verification/license_verification.php:120
+msgid "Manage all your purchase codes."
+msgstr ""
+
+#: core/license_verification/license_verification.php:74
+#: core/license_verification/license_verification.php:121
+msgid "Check for product and support status."
+msgstr ""
+
+#: core/license_verification/license_verification.php:79
+#: core/license_verification/license_verification.php:126
+msgid "Protect & Create Account"
+msgstr ""
+
+#: core/license_verification/license_verification.php:129
+msgid "Hey!"
+msgstr ""
+
+#: core/license_verification/license_verification.php:130
+msgid ""
+"Your account has been successfully created and its details were sent your e-"
+"mail address "
+msgstr ""
+
+#: core/license_verification/license_verification.php:131
+msgid "You can log into your account at"
+msgstr ""
+
+#: core/license_verification/license_verification.php:131
+msgid "to manage your purchase code(s) and get dedicated support."
+msgstr ""
+
+#: core/license_verification/license_verification.php:132
+msgid "If you haven't received your account details, please contact us at"
+msgstr ""
+
+#: core/license_verification/license_verification.php:132
+msgid "and our support team will assist you."
+msgstr ""
+
+#: core/license_verification/license_verification.php:133
+msgid "Thank you for choosing our product."
+msgstr ""
+
+#: core/license_verification/license_verification.php:134
+msgid "Close"
+msgstr ""
+
+#: core/license_verification/license_verification.php:205
+#: core/license_verification/license_verification.php:240
+msgid "Registration Connection error"
+msgstr ""
+
+#: core/license_verification/license_verification.php:209
+#: core/license_verification/license_verification.php:244
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: core/license_verification/license_verification.php:290
+msgid "Purchase Validation! Please activate your theme."
+msgstr ""
+
+#: core/license_verification/license_verification.php:291
+#: core/license_verification/license_verification.php:342
+msgid "Register Now"
+msgstr ""
+
+#: core/license_verification/license_verification.php:291
+msgid "Buy Theme"
+msgstr ""
+
+#: core/license_verification/license_verification.php:310
+msgid "Your support package for this theme expired"
+msgstr ""
+
+#: core/license_verification/license_verification.php:312
+msgid "Your support package for this theme is about to expire"
+msgstr ""
+
+#: core/license_verification/license_verification.php:315
+msgid "Update Support Package"
+msgstr ""
+
+#: core/license_verification/license_verification.php:315
+#: core/license_verification/license_verification.php:342
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/license_verification/license_verification.php:326
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: core/license_verification/license_verification.php:341
+msgid "Create account and manage your theme purchase codes."
+msgstr ""
+
+#: core/page-settings.php:33 core/page-settings.php:65
+msgid "Page Options"
+msgstr ""
+
+#: core/page-settings.php:37
+msgid "Page Sub-Title:"
+msgstr ""
+
+#: core/page-settings.php:41
+msgid "Footer State:"
+msgstr ""
+
+#: core/page-settings.php:67 core/page-settings.php:842
+msgid "Background Options:"
+msgstr ""
+
+#: core/page-settings.php:81 core/page-settings.php:856
+#: core/vc/modules/gt3_promo_block/init.php:64
+#: core/vc/modules/gt3_stripes/init.php:57
+msgid "Add Image"
+msgstr ""
+
+#: core/page-settings.php:86
+msgid "Counter Title:"
+msgstr ""
+
+#: core/page-settings.php:90
+msgid "Shortcode Title:"
+msgstr ""
+
+#: core/page-settings.php:95
+msgid "Enter Date:"
+msgstr ""
+
+#: core/page-settings.php:96
+msgid "Enter year. Ex.:2020"
+msgstr ""
+
+#: core/page-settings.php:97
+msgid "Enter day. Ex.:27"
+msgstr ""
+
+#: core/page-settings.php:98
+msgid "Enter month. Ex.:11"
+msgstr ""
+
+#: core/page-settings.php:101
+msgid "Form Shortcode:"
+msgstr ""
+
+#: core/page-settings.php:125
+msgid "Gallery Type"
+msgstr ""
+
+#: core/page-settings.php:155 core/page-settings.php:213
+#: core/page-settings.php:460
+msgid "Slider Settings"
+msgstr ""
+
+#: core/page-settings.php:161 core/page-settings.php:278
+#: core/page-settings.php:486
+msgid "Autoplay:"
+msgstr ""
+
+#: core/page-settings.php:170 core/page-settings.php:784
+msgid "Title State:"
+msgstr ""
+
+#: core/page-settings.php:179
+msgid "Padding Around Items in PX:"
+msgstr ""
+
+#: core/page-settings.php:188 core/page-settings.php:287
+#: core/page-settings.php:495
+msgid "Slide Interval In Milliseconds:"
+msgstr ""
+
+#: core/page-settings.php:197 core/page-settings.php:296
+#: core/page-settings.php:504
+msgid "Slide Transition In Milliseconds:"
+msgstr ""
+
+#: core/page-settings.php:221
+msgid "Fit Style:"
+msgstr ""
+
+#: core/page-settings.php:236
+msgid "Animation Style:"
+msgstr ""
+
+#: core/page-settings.php:251
+msgid "Cover Video Slides:"
+msgstr ""
+
+#: core/page-settings.php:260
+msgid "Show Controls & Titles:"
+msgstr ""
+
+#: core/page-settings.php:269
+msgid "Show Thumbs:"
+msgstr ""
+
+#: core/page-settings.php:314 core/page-settings.php:391
+msgid "Gallery Settings"
+msgstr ""
+
+#: core/page-settings.php:321
+msgid "Masonry:"
+msgstr ""
+
+#: core/page-settings.php:330
+msgid "Items in Row:"
+msgstr ""
+
+#: core/page-settings.php:345
+msgid "Items on Start:"
+msgstr ""
+
+#: core/page-settings.php:354
+msgid "Items per Load:"
+msgstr ""
+
+#: core/page-settings.php:363 core/page-settings.php:432
+msgid "Padding around Items:"
+msgstr ""
+
+#: core/page-settings.php:372 core/page-settings.php:441
+msgid "Load More Button Text:"
+msgstr ""
+
+#: core/page-settings.php:375 core/page-settings.php:444
+#: core/vc/modules/gt3_albums_grid/init.php:92
+#: core/vc/modules/gt3_blog_grid/init.php:79
+#: core/vc/modules/gt3_gallery_grid/init.php:94
+#: core/vc/modules/gt3_gallery_packery/init.php:71
+#: core/vc/modules/gt3_portfolio_grid/init.php:103
+#: core/vc/modules/gt3_portfolio_packery/init.php:68
+#: vc_templates/gt3_gallery_grid.php:12 vc_templates/gt3_gallery_packery.php:12
+#: vc_templates/gt3_portfolio_packery.php:12
+msgid "Load More"
+msgstr ""
+
+#: core/page-settings.php:399
+msgid "Select Layout:"
+msgstr ""
+
+#: core/page-settings.php:414
+msgid "Layouts on Start:"
+msgstr ""
+
+#: core/page-settings.php:423
+msgid "Layouts per Load:"
+msgstr ""
+
+#: core/page-settings.php:468
+msgid "Lightbox:"
+msgstr ""
+
+#: core/page-settings.php:477
+msgid "Show Title & Caption:"
+msgstr ""
+
+#: core/page-settings.php:513
+msgid "Slider Image Width:"
+msgstr ""
+
+#: core/page-settings.php:522
+msgid "Slider Image Height:"
+msgstr ""
+
+#: core/page-settings.php:557
+msgid "Select media"
+msgstr ""
+
+#: core/page-settings.php:580
+msgid "show thumbnails"
+msgstr ""
+
+#: core/page-settings.php:625
+msgid "Link Description:"
+msgstr ""
+
+#: core/page-settings.php:629
+msgid "Link Url:"
+msgstr ""
+
+#: core/page-settings.php:633
+msgid "Open in New Window:"
+msgstr ""
+
+#: core/page-settings.php:642
+msgid "Quote Settings:"
+msgstr ""
+
+#: core/page-settings.php:644
+msgid "Quote Text:"
+msgstr ""
+
+#: core/page-settings.php:647
+msgid "Quote Author:"
+msgstr ""
+
+#: core/page-settings.php:687 core/page-settings.php:720
+msgid "Advanced options"
+msgstr ""
+
+#: core/page-settings.php:690
+msgid "Select Post Layout:"
+msgstr ""
+
+#: core/page-settings.php:703
+msgid "Fullwidth Layout Height:"
+msgstr ""
+
+#: core/page-settings.php:723
+msgid "Link to the work:"
+msgstr ""
+
+#: core/page-settings.php:728
+msgid "Content Layout:"
+msgstr ""
+
+#: core/page-settings.php:743
+msgid "Post Media State:"
+msgstr ""
+
+#: core/page-settings.php:758
+msgid "Simple Media Height:"
+msgstr ""
+
+#: core/page-settings.php:762
+msgid "For Simple layout only"
+msgstr ""
+
+#: core/page-settings.php:768
+msgid "Content Position:"
+msgstr ""
+
+#: core/page-settings.php:778
+msgid "For Side by Side layout only"
+msgstr ""
+
+#: core/page-settings.php:799
+msgid "Categories State:"
+msgstr ""
+
+#: core/page-settings.php:814
+msgid "Title Alignment:"
+msgstr ""
+
+#: core/page-settings.php:840
+msgid "Landing Page Options"
+msgstr ""
+
+#: core/page-settings.php:861 core/registrator/misc.php:108
+msgid "Title:"
+msgstr ""
+
+#: core/page-settings.php:862
+msgid "Bradley"
+msgstr ""
+
+#: core/page-settings.php:865
+msgid "Subtitle:"
+msgstr ""
+
+#: core/page-settings.php:866
+msgid "Professional Photography"
+msgstr ""
+
+#: core/page-settings.php:869
+msgid "Button Text:"
+msgstr ""
+
+#: core/page-settings.php:870
+msgid "Enter"
+msgstr ""
+
+#: core/page-settings.php:873
+msgid "Button URL:"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:110
+msgid "Mega Menu"
+msgstr ""
+
+#: core/registrator/ajax-handlers.php:129
+msgid "Save Settings"
+msgstr ""
+
+#: core/registrator/misc.php:71
+msgid "Sidebar layout:"
+msgstr ""
+
+#: core/registrator/misc.php:94
+msgid "Select sidebar:"
+msgstr ""
+
+#: core/registrator/sidebars.php:8
+msgid ""
+"Add the widgets appearance for Custom Sidebar. Drag the widget from the "
+"available list on the left, configure widgets options and click Save button. "
+"Select the sidebar on the posts or pages in just few clicks."
+msgstr ""
+
+#: core/registrator/sidebars.php:16
+msgid ""
+"Display and style the footer area with multiple widgets. Simply drag the "
+"widgets from the left, make the adjustments to the widget according the "
+"needs. Preview the front end."
+msgstr ""
+
+#: core/vc/custom_types/gt3_categories.php:28
+msgid "No category available. Please add new category in the posts section."
+msgstr ""
+
+#: core/vc/custom_types/gt3_categories.php:47
+msgid "No category available. Please add new category in the gallery section."
+msgstr ""
+
+#: core/vc/custom_types/image_select.php:17 functions.php:788
+msgid "selected image"
+msgstr ""
+
+#: core/vc/init.php:77
+msgid "Accordion Style"
+msgstr ""
+
+#: core/vc/init.php:80 core/vc/init.php:100 core/vc/init.php:112
+msgid "Standard"
+msgstr ""
+
+#: core/vc/init.php:81 core/vc/init.php:101 core/vc/init.php:113
+msgid "Alternative"
+msgstr ""
+
+#: core/vc/init.php:97 core/vc/init.php:109
+#: core/vc/modules/gt3_image_slider/init.php:23
+msgid "Style"
+msgstr ""
+
+#: core/vc/init.php:118 core/vc/modules/gt3_custom_meta/init.php:19
+msgid "Values"
+msgstr ""
+
+#: core/vc/init.php:120
+msgid "Enter values for graph - value and title."
+msgstr ""
+
+#: core/vc/init.php:123
+msgid "Development"
+msgstr ""
+
+#: core/vc/init.php:127
+msgid "Design"
+msgstr ""
+
+#: core/vc/init.php:131
+msgid "Marketing"
+msgstr ""
+
+#: core/vc/init.php:138 core/vc/modules/gt3_custom_meta/init.php:26
+msgid "Label"
+msgstr ""
+
+#: core/vc/init.php:140
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: core/vc/init.php:145 core/vc/modules/gt3_custom_meta/init.php:33
+msgid "Value"
+msgstr ""
+
+#: core/vc/init.php:147
+msgid "Enter value of bar."
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:5
+msgid "Albums Grid"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:6
+msgid "Displays gallery posts in grid layout"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:7
+#: core/vc/modules/gt3_blog_grid/init.php:7
+#: core/vc/modules/gt3_blog_listing/init.php:7
+#: core/vc/modules/gt3_blog_related/init.php:7
+#: core/vc/modules/gt3_button/init.php:12
+#: core/vc/modules/gt3_counter/init.php:12
+#: core/vc/modules/gt3_custom_meta/init.php:12
+#: core/vc/modules/gt3_divider/init.php:7
+#: core/vc/modules/gt3_gallery_circles/init.php:7
+#: core/vc/modules/gt3_gallery_flow/init.php:7
+#: core/vc/modules/gt3_gallery_fs/init.php:7
+#: core/vc/modules/gt3_gallery_grid/init.php:7
+#: core/vc/modules/gt3_gallery_kenburns/init.php:7
+#: core/vc/modules/gt3_gallery_packery/init.php:7
+#: core/vc/modules/gt3_gallery_ribbon/init.php:7
+#: core/vc/modules/gt3_gallery_shift/init.php:7
+#: core/vc/modules/gt3_gallery_stripe/init.php:7
+#: core/vc/modules/gt3_icon_box/init.php:12
+#: core/vc/modules/gt3_image_slider/init.php:11
+#: core/vc/modules/gt3_message_box/init.php:12
+#: core/vc/modules/gt3_portfolio_grid/init.php:7
+#: core/vc/modules/gt3_portfolio_packery/init.php:7
+#: core/vc/modules/gt3_price_block/init.php:11
+#: core/vc/modules/gt3_promo_block/init.php:7
+#: core/vc/modules/gt3_promo_block/init.php:56
+#: core/vc/modules/gt3_services/init.php:11
+#: core/vc/modules/gt3_sharing/init.php:12
+#: core/vc/modules/gt3_shop_list/init.php:25
+#: core/vc/modules/gt3_spacing/init.php:12
+#: core/vc/modules/gt3_stripes/init.php:7
+#: core/vc/modules/gt3_stripes/init.php:49 core/vc/modules/gt3_team/init.php:10
+#: core/vc/modules/gt3_testimonials/init.php:11
+#: core/vc/modules/gt3_testimonials/init.php:147
+#: core/vc/modules/gt3_thumbs_gallery/init.php:7
+#: core/vc/modules/gt3_video_popup/init.php:11
+msgid "GT3 Modules"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:12
+#: core/vc/modules/gt3_blog_grid/init.php:12
+#: core/vc/modules/gt3_portfolio_grid/init.php:12
+#: core/vc/modules/gt3_portfolio_packery/init.php:12
+msgid "Select Categories"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:16
+#: core/vc/modules/gt3_blog_grid/init.php:16
+#: core/vc/modules/gt3_portfolio_grid/init.php:16
+#: core/vc/modules/gt3_portfolio_packery/init.php:16
+msgid "Select Categories to Display"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:21
+#: core/vc/modules/gt3_blog_grid/init.php:21
+#: core/vc/modules/gt3_gallery_grid/init.php:47
+#: core/vc/modules/gt3_portfolio_grid/init.php:21
+msgid "Masonry Layout"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:24
+#: core/vc/modules/gt3_blog_grid/init.php:24
+#: core/vc/modules/gt3_gallery_grid/init.php:50
+#: core/vc/modules/gt3_portfolio_grid/init.php:24
+msgid "Turn ON or OFF masonry layout."
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:29
+#: core/vc/modules/gt3_blog_grid/init.php:29
+#: core/vc/modules/gt3_gallery_grid/init.php:55
+#: core/vc/modules/gt3_portfolio_grid/init.php:40
+msgid "Items in Row"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:34
+#: core/vc/modules/gt3_blog_grid/init.php:34
+#: core/vc/modules/gt3_gallery_grid/init.php:59
+#: core/vc/modules/gt3_portfolio_grid/init.php:45
+msgid "1 Item"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:35
+#: core/vc/modules/gt3_blog_grid/init.php:35
+#: core/vc/modules/gt3_blog_related/init.php:15
+#: core/vc/modules/gt3_gallery_grid/init.php:60
+#: core/vc/modules/gt3_portfolio_grid/init.php:46
+msgid "2 Items"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:36
+#: core/vc/modules/gt3_blog_grid/init.php:36
+#: core/vc/modules/gt3_blog_related/init.php:16
+#: core/vc/modules/gt3_gallery_grid/init.php:61
+#: core/vc/modules/gt3_portfolio_grid/init.php:47
+msgid "3 Items"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:37
+#: core/vc/modules/gt3_blog_grid/init.php:37
+#: core/vc/modules/gt3_blog_related/init.php:17
+#: core/vc/modules/gt3_gallery_grid/init.php:62
+#: core/vc/modules/gt3_portfolio_grid/init.php:48
+msgid "4 Items"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:38
+#: core/vc/modules/gt3_blog_grid/init.php:38
+#: core/vc/modules/gt3_gallery_grid/init.php:63
+#: core/vc/modules/gt3_portfolio_grid/init.php:49
+msgid "5 Items"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:39
+#: core/vc/modules/gt3_blog_grid/init.php:39
+#: core/vc/modules/gt3_gallery_grid/init.php:64
+#: core/vc/modules/gt3_portfolio_grid/init.php:50
+msgid "6 Items"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:44
+#: core/vc/modules/gt3_portfolio_grid/init.php:55
+#: core/vc/modules/gt3_portfolio_packery/init.php:21
+msgid "Filter State"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:50
+#: core/vc/modules/gt3_albums_grid/init.php:62
+#: core/vc/modules/gt3_blog_grid/init.php:49
+#: core/vc/modules/gt3_portfolio_grid/init.php:61
+#: core/vc/modules/gt3_portfolio_grid/init.php:73
+#: core/vc/modules/gt3_portfolio_packery/init.php:27
+#: core/vc/modules/gt3_portfolio_packery/init.php:39
+msgid "On"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:51
+#: core/vc/modules/gt3_albums_grid/init.php:63
+#: core/vc/modules/gt3_blog_grid/init.php:50
+#: core/vc/modules/gt3_portfolio_grid/init.php:62
+#: core/vc/modules/gt3_portfolio_grid/init.php:74
+#: core/vc/modules/gt3_portfolio_packery/init.php:28
+#: core/vc/modules/gt3_portfolio_packery/init.php:40
+#: core/vc/modules/gt3_shop_list/init.php:167
+msgid "Off"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:56
+#: core/vc/modules/gt3_blog_grid/init.php:44
+#: core/vc/modules/gt3_portfolio_grid/init.php:67
+#: core/vc/modules/gt3_portfolio_packery/init.php:33
+msgid "Ajax"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:68
+#: core/vc/modules/gt3_blog_grid/init.php:55
+#: core/vc/modules/gt3_gallery_grid/init.php:69
+#: core/vc/modules/gt3_portfolio_grid/init.php:79
+msgid "Items on First Load"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:75
+#: core/vc/modules/gt3_blog_grid/init.php:62
+#: core/vc/modules/gt3_gallery_grid/init.php:76
+#: core/vc/modules/gt3_portfolio_grid/init.php:86
+msgid "Items on Load More"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:82
+#: core/vc/modules/gt3_blog_grid/init.php:69
+#: core/vc/modules/gt3_gallery_grid/init.php:83
+#: core/vc/modules/gt3_gallery_packery/init.php:75
+#: core/vc/modules/gt3_gallery_ribbon/init.php:92
+#: core/vc/modules/gt3_portfolio_grid/init.php:93
+#: core/vc/modules/gt3_portfolio_packery/init.php:72
+#: core/vc/modules/gt3_thumbs_gallery/init.php:85
+msgid "Paddings around the images"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:84
+#: core/vc/modules/gt3_blog_grid/init.php:71
+#: core/vc/modules/gt3_gallery_grid/init.php:86
+#: core/vc/modules/gt3_gallery_packery/init.php:78
+#: core/vc/modules/gt3_gallery_ribbon/init.php:94
+#: core/vc/modules/gt3_portfolio_grid/init.php:95
+#: core/vc/modules/gt3_portfolio_packery/init.php:75
+#: core/vc/modules/gt3_thumbs_gallery/init.php:87
+msgid ""
+"Please use this option to add paddings around the images. Recommended size "
+"in pixels 0-50. (Ex.: 15px):"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:90
+#: core/vc/modules/gt3_blog_grid/init.php:77
+#: core/vc/modules/gt3_button/init.php:20
+#: core/vc/modules/gt3_gallery_grid/init.php:92
+#: core/vc/modules/gt3_icon_box/init.php:94
+#: core/vc/modules/gt3_message_box/init.php:32
+#: core/vc/modules/gt3_portfolio_grid/init.php:101
+#: core/vc/modules/gt3_team/init.php:39
+msgid "Text"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:97
+#: core/vc/modules/gt3_blog_grid/init.php:84
+#: core/vc/modules/gt3_blog_listing/init.php:18
+#: core/vc/modules/gt3_blog_related/init.php:38
+#: core/vc/modules/gt3_custom_meta/init.php:94
+#: core/vc/modules/gt3_divider/init.php:46
+#: core/vc/modules/gt3_gallery_grid/init.php:98
+#: core/vc/modules/gt3_gallery_packery/init.php:83
+#: core/vc/modules/gt3_portfolio_grid/init.php:108
+#: core/vc/modules/gt3_portfolio_packery/init.php:80
+#: core/vc/modules/gt3_promo_block/init.php:35
+#: core/vc/modules/gt3_promo_block/init.php:84
+#: core/vc/modules/gt3_sharing/init.php:56
+#: core/vc/modules/gt3_stripes/init.php:28
+#: core/vc/modules/gt3_stripes/init.php:83
+#: core/vc/modules/gt3_thumbs_gallery/init.php:93
+msgid "Custom Class"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:103
+#: core/vc/modules/gt3_blog_grid/init.php:90
+#: core/vc/modules/gt3_blog_listing/init.php:24
+#: core/vc/modules/gt3_blog_related/init.php:44
+#: core/vc/modules/gt3_custom_meta/init.php:100
+#: core/vc/modules/gt3_divider/init.php:52
+#: core/vc/modules/gt3_gallery_grid/init.php:107
+#: core/vc/modules/gt3_gallery_packery/init.php:92
+#: core/vc/modules/gt3_portfolio_grid/init.php:114
+#: core/vc/modules/gt3_portfolio_packery/init.php:89
+#: core/vc/modules/gt3_promo_block/init.php:30
+#: core/vc/modules/gt3_sharing/init.php:62
+#: core/vc/modules/gt3_stripes/init.php:23
+#: core/vc/modules/gt3_thumbs_gallery/init.php:102
+msgid "CSS"
+msgstr ""
+
+#: core/vc/modules/gt3_albums_grid/init.php:105
+#: core/vc/modules/gt3_blog_grid/init.php:92
+#: core/vc/modules/gt3_blog_listing/init.php:26
+#: core/vc/modules/gt3_blog_related/init.php:46
+#: core/vc/modules/gt3_custom_meta/init.php:102
+#: core/vc/modules/gt3_divider/init.php:54
+#: core/vc/modules/gt3_gallery_grid/init.php:109
+#: core/vc/modules/gt3_gallery_packery/init.php:94
+#: core/vc/modules/gt3_portfolio_grid/init.php:116
+#: core/vc/modules/gt3_portfolio_packery/init.php:91
+#: core/vc/modules/gt3_sharing/init.php:64
+#: core/vc/modules/gt3_thumbs_gallery/init.php:104
+msgid "Design options"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_grid/init.php:5
+msgid "Blog Grid"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_grid/init.php:6
+msgid "Displays your posts in masonry layout"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_listing/init.php:5
+msgid "Blog Listing"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_listing/init.php:6
+msgid "Displays blog posts with additional options"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_listing/init.php:12
+msgid "Items per page"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_related/init.php:5
+msgid "Blog Related Posts"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_related/init.php:6
+msgid "Displays related blog posts"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_related/init.php:12
+msgid "Items to Show"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_related/init.php:22
+msgid "Order By"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_related/init.php:25
+#: core/vc/modules/gt3_shop_list/init.php:66
+msgid "Random"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_related/init.php:27
+#: core/vc/modules/gt3_team/init.php:25
+msgid "Name"
+msgstr ""
+
+#: core/vc/modules/gt3_blog_related/init.php:32
+#: core/vc/modules/gt3_promo_block/init.php:23
+msgid "Space between items"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:9 core/vc/modules/gt3_button/init.php:22
+msgid "GT3 Button"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:15
+msgid "Add custom button"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:27
+#: core/vc/modules/gt3_icon_box/init.php:100
+#: core/vc/modules/gt3_price_block/init.php:56
+#: core/vc/modules/gt3_promo_block/init.php:78
+#: core/vc/modules/gt3_services/init.php:45
+#: core/vc/modules/gt3_stripes/init.php:77
+msgid "Link"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:29
+msgid "Add link to button."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:34
+msgid "Size"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:37
+#: core/vc/modules/gt3_counter/init.php:230
+msgid "Normal"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:38
+#: core/vc/modules/gt3_counter/init.php:233
+#: core/vc/modules/gt3_icon_box/init.php:158 woocommerce/wooinit.php:204
+msgid "Large"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:40
+msgid "Select button display size."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:45
+msgid "Alignment"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:48
+msgid "Inline"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:49
+#: core/vc/modules/gt3_counter/init.php:79
+#: core/vc/modules/gt3_counter/init.php:92
+#: core/vc/modules/gt3_custom_meta/init.php:58
+#: core/vc/modules/gt3_divider/init.php:15
+#: core/vc/modules/gt3_icon_box/init.php:63
+#: core/vc/modules/gt3_icon_box/init.php:76
+#: core/vc/modules/gt3_services/init.php:62
+#: core/vc/modules/gt3_sharing/init.php:30
+msgid "Left"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:50
+#: core/vc/modules/gt3_counter/init.php:80
+#: core/vc/modules/gt3_counter/init.php:93
+#: core/vc/modules/gt3_custom_meta/init.php:60
+#: core/vc/modules/gt3_divider/init.php:17
+#: core/vc/modules/gt3_icon_box/init.php:64
+#: core/vc/modules/gt3_icon_box/init.php:77
+#: core/vc/modules/gt3_services/init.php:63
+#: core/vc/modules/gt3_sharing/init.php:31
+msgid "Right"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:51
+#: core/vc/modules/gt3_counter/init.php:91
+#: core/vc/modules/gt3_custom_meta/init.php:59
+#: core/vc/modules/gt3_divider/init.php:16
+#: core/vc/modules/gt3_icon_box/init.php:75
+#: core/vc/modules/gt3_sharing/init.php:32
+msgid "Center"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:52
+msgid "Block"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:54
+#: core/vc/modules/gt3_sharing/init.php:34
+msgid "Select button alignment."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:60
+#: core/vc/modules/gt3_spacing/init.php:9
+#: core/vc/modules/gt3_spacing/init.php:15
+msgid "Spacing"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:65
+#: core/vc/modules/gt3_counter/init.php:137
+#: core/vc/modules/gt3_gallery_circles/init.php:61
+#: core/vc/modules/gt3_gallery_flow/init.php:85
+#: core/vc/modules/gt3_gallery_fs/init.php:106
+#: core/vc/modules/gt3_gallery_kenburns/init.php:58
+#: core/vc/modules/gt3_gallery_ribbon/init.php:99
+#: core/vc/modules/gt3_gallery_shift/init.php:62
+#: core/vc/modules/gt3_gallery_stripe/init.php:47
+#: core/vc/modules/gt3_image_slider/init.php:134
+#: core/vc/modules/gt3_price_block/init.php:67
+#: core/vc/modules/gt3_services/init.php:71
+#: core/vc/modules/gt3_testimonials/init.php:49
+#: core/vc/modules/gt3_testimonials/init.php:201
+msgid "Extra Class"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:67
+#: core/vc/modules/gt3_counter/init.php:139
+#: core/vc/modules/gt3_gallery_circles/init.php:63
+#: core/vc/modules/gt3_gallery_flow/init.php:87
+#: core/vc/modules/gt3_gallery_fs/init.php:108
+#: core/vc/modules/gt3_gallery_kenburns/init.php:60
+#: core/vc/modules/gt3_gallery_ribbon/init.php:101
+#: core/vc/modules/gt3_gallery_shift/init.php:64
+#: core/vc/modules/gt3_gallery_stripe/init.php:49
+#: core/vc/modules/gt3_image_slider/init.php:136
+#: core/vc/modules/gt3_price_block/init.php:69
+#: core/vc/modules/gt3_services/init.php:73
+#: core/vc/modules/gt3_testimonials/init.php:51
+#: core/vc/modules/gt3_testimonials/init.php:203
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:71
+msgid "Use reverse button?"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:73
+#: core/vc/modules/gt3_counter/init.php:156
+#: core/vc/modules/gt3_counter/init.php:192
+#: core/vc/modules/gt3_custom_meta/init.php:68
+#: core/vc/modules/gt3_gallery_ribbon/init.php:50
+#: core/vc/modules/gt3_icon_box/init.php:221
+#: core/vc/modules/gt3_icon_box/init.php:257
+#: core/vc/modules/gt3_image_slider/init.php:41
+#: core/vc/modules/gt3_image_slider/init.php:110
+#: core/vc/modules/gt3_image_slider/init.php:128
+#: core/vc/modules/gt3_message_box/init.php:42
+#: core/vc/modules/gt3_price_block/init.php:27
+#: core/vc/modules/gt3_services/init.php:89
+#: core/vc/modules/gt3_services/init.php:131
+#: core/vc/modules/gt3_services/init.php:193
+#: core/vc/modules/gt3_sharing/init.php:41
+#: core/vc/modules/gt3_testimonials/init.php:22
+#: core/vc/modules/gt3_testimonials/init.php:135
+#: core/vc/modules/gt3_thumbs_gallery/init.php:50
+#: core/vc/modules/gt3_thumbs_gallery/init.php:67
+#: core/vc/modules/gt3_video_popup/init.php:55
+msgid "Yes"
+msgstr ""
+
+#: core/vc/modules/gt3_button/init.php:74
+msgid "Use button reverse."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:9
+msgid "Counter"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:15
+msgid "Adds your milestones, achievements, etc."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:21
+#: core/vc/modules/gt3_icon_box/init.php:20
+msgid "Icon Type"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:24
+#: core/vc/modules/gt3_icon_box/init.php:24
+msgid "Font"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:25
+#: core/vc/modules/gt3_counter/init.php:46
+#: core/vc/modules/gt3_icon_box/init.php:25
+#: core/vc/modules/gt3_icon_box/init.php:48
+#: core/vc/modules/gt3_team/init.php:17
+#: core/vc/modules/gt3_testimonials/init.php:172
+msgid "Image"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:26
+#: core/vc/modules/gt3_gallery_fs/init.php:84
+#: core/vc/modules/gt3_icon_box/init.php:23
+#: core/vc/modules/gt3_image_slider/init.php:75
+msgid "None"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:28
+msgid "Use an existing font icon or upload a custom image."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:33
+#: core/vc/modules/gt3_icon_box/init.php:31
+#: core/vc/modules/gt3_message_box/init.php:19
+msgid "Icon"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:41
+#: core/vc/modules/gt3_icon_box/init.php:40
+#: core/vc/modules/gt3_message_box/init.php:28
+msgid "Select icon from library."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:49
+#: core/vc/modules/gt3_icon_box/init.php:51
+#: core/vc/modules/gt3_services/init.php:22
+#: core/vc/modules/gt3_team/init.php:20
+#: core/vc/modules/gt3_testimonials/init.php:175
+msgid "Select image from media library."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:54
+#: core/vc/modules/gt3_gallery_ribbon/init.php:54
+#: core/vc/modules/gt3_testimonials/init.php:115
+msgid "Image Width"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:57
+#: core/vc/modules/gt3_testimonials/init.php:118
+msgid "Enter image width in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:63
+msgid "Image Proportions"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:66
+msgid "Original"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:67
+msgid "Square"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:68
+msgid "Circle"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:75
+#: core/vc/modules/gt3_icon_box/init.php:59
+msgid "Icon Position"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:78
+#: core/vc/modules/gt3_icon_box/init.php:62
+#: core/vc/modules/gt3_services/init.php:64
+msgid "Top"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:81
+#: core/vc/modules/gt3_services/init.php:65
+#: core/vc/modules/gt3_shop_list/init.php:165
+msgid "Bottom"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:88
+#: core/vc/modules/gt3_icon_box/init.php:72
+msgid "Content alignment"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:95
+#: core/vc/modules/gt3_icon_box/init.php:80
+msgid "Select content alignment."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:104
+msgid "Counter Title "
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:108
+msgid "Enter title for stats counter block"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:113
+msgid "Counter Value"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:116
+msgid ""
+"Enter number for counter without any special character. You may enter a "
+"decimal number. Eg 12.76"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:121
+msgid "Counter Value Prefix"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:124
+msgid "Enter prefix for counter value"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:129
+msgid "Counter Value Suffix"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:132
+msgid "Enter suffix for counter value"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:144
+msgid "Counter Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:147
+msgid "Enter counter title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:148
+#: core/vc/modules/gt3_counter/init.php:158
+#: core/vc/modules/gt3_counter/init.php:175
+#: core/vc/modules/gt3_counter/init.php:184
+#: core/vc/modules/gt3_counter/init.php:194
+#: core/vc/modules/gt3_counter/init.php:211
+#: core/vc/modules/gt3_counter/init.php:221
+#: core/vc/modules/gt3_counter/init.php:237
+#: core/vc/modules/gt3_counter/init.php:247
+#: core/vc/modules/gt3_counter/init.php:258
+#: core/vc/modules/gt3_icon_box/init.php:162
+#: core/vc/modules/gt3_icon_box/init.php:172
+#: core/vc/modules/gt3_icon_box/init.php:182
+#: core/vc/modules/gt3_icon_box/init.php:204
+#: core/vc/modules/gt3_icon_box/init.php:213
+#: core/vc/modules/gt3_icon_box/init.php:223
+#: core/vc/modules/gt3_icon_box/init.php:240
+#: core/vc/modules/gt3_icon_box/init.php:249
+#: core/vc/modules/gt3_icon_box/init.php:259
+#: core/vc/modules/gt3_icon_box/init.php:276
+#: core/vc/modules/gt3_icon_box/init.php:282
+#: core/vc/modules/gt3_icon_box/init.php:290
+#: core/vc/modules/gt3_icon_box/init.php:298
+#: core/vc/modules/gt3_icon_box/init.php:306
+#: core/vc/modules/gt3_message_box/init.php:50
+#: core/vc/modules/gt3_message_box/init.php:58
+#: core/vc/modules/gt3_services/init.php:83
+#: core/vc/modules/gt3_services/init.php:91
+#: core/vc/modules/gt3_services/init.php:108
+#: core/vc/modules/gt3_services/init.php:114
+#: core/vc/modules/gt3_services/init.php:125
+#: core/vc/modules/gt3_services/init.php:133
+#: core/vc/modules/gt3_services/init.php:150
+#: core/vc/modules/gt3_services/init.php:157
+#: core/vc/modules/gt3_services/init.php:168
+#: core/vc/modules/gt3_services/init.php:174
+#: core/vc/modules/gt3_services/init.php:184
+#: core/vc/modules/gt3_services/init.php:195
+#: core/vc/modules/gt3_services/init.php:212
+#: core/vc/modules/gt3_testimonials/init.php:60
+#: core/vc/modules/gt3_testimonials/init.php:71
+#: core/vc/modules/gt3_testimonials/init.php:80
+#: core/vc/modules/gt3_testimonials/init.php:90
+#: core/vc/modules/gt3_testimonials/init.php:99
+#: core/vc/modules/gt3_testimonials/init.php:109
+#: core/vc/modules/gt3_video_popup/init.php:40
+#: core/vc/modules/gt3_video_popup/init.php:48
+#: core/vc/modules/gt3_video_popup/init.php:57
+#: core/vc/modules/gt3_video_popup/init.php:74
+#: core/vc/modules/gt3_video_popup/init.php:83
+msgid "Styling"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:154
+msgid "Use theme default font family for counter title?"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:157
+#: core/vc/modules/gt3_counter/init.php:193
+#: core/vc/modules/gt3_icon_box/init.php:222
+#: core/vc/modules/gt3_icon_box/init.php:258
+#: core/vc/modules/gt3_services/init.php:90
+#: core/vc/modules/gt3_services/init.php:132
+#: core/vc/modules/gt3_services/init.php:194
+#: core/vc/modules/gt3_video_popup/init.php:56
+msgid "Use font family from the theme."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:167
+#: core/vc/modules/gt3_counter/init.php:203
+#: core/vc/modules/gt3_icon_box/init.php:232
+#: core/vc/modules/gt3_icon_box/init.php:268
+#: core/vc/modules/gt3_services/init.php:100
+#: core/vc/modules/gt3_services/init.php:142
+#: core/vc/modules/gt3_services/init.php:204
+#: core/vc/modules/gt3_video_popup/init.php:66
+msgid "Select font family."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:168
+#: core/vc/modules/gt3_counter/init.php:204
+#: core/vc/modules/gt3_icon_box/init.php:233
+#: core/vc/modules/gt3_icon_box/init.php:269
+#: core/vc/modules/gt3_services/init.php:101
+#: core/vc/modules/gt3_services/init.php:143
+#: core/vc/modules/gt3_services/init.php:205
+#: core/vc/modules/gt3_video_popup/init.php:67
+msgid "Select font styling."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:180
+msgid "Counter Value Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:183
+msgid "Enter counter value font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:190
+msgid "Use theme default font family for counter value?"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:216
+#: core/vc/modules/gt3_icon_box/init.php:180
+msgid "Icon Color"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:219
+#: core/vc/modules/gt3_counter/init.php:246
+#: core/vc/modules/gt3_counter/init.php:257
+#: core/vc/modules/gt3_icon_box/init.php:190
+msgid "Select color for this item."
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:227
+#: core/vc/modules/gt3_icon_box/init.php:152
+msgid "Icon Size"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:231
+#: core/vc/modules/gt3_icon_box/init.php:156
+msgid "Mini"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:232
+#: core/vc/modules/gt3_icon_box/init.php:157
+msgid "Small"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:234
+msgid "Extra Large"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:243
+msgid "Counter Value Color"
+msgstr ""
+
+#: core/vc/modules/gt3_counter/init.php:254
+#: core/vc/modules/gt3_icon_box/init.php:280
+#: core/vc/modules/gt3_services/init.php:112
+msgid "Title Color"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:9
+msgid "Custom Meta"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:15
+msgid "Adds custom meta fields"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:21
+msgid "Enter values for meta - value and title"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:28
+msgid "Enter text used as title of meta."
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:35
+msgid "Enter value of meta."
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:42
+#: core/vc/modules/gt3_gallery_packery/init.php:47
+#: core/vc/modules/gt3_portfolio_packery/init.php:45
+msgid "Select Layout"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:47
+msgid "Horizontal"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:48
+msgid "Vertical"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:53
+msgid "Select Alignment"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:65
+msgid "Customize Colors?"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:67
+#: core/vc/modules/gt3_gallery_ribbon/init.php:49
+#: core/vc/modules/gt3_sharing/init.php:40
+msgid "Enable crop image."
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:72
+msgid "Label Color"
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:75
+#: core/vc/modules/gt3_custom_meta/init.php:86
+#: core/vc/modules/gt3_gallery_circles/init.php:55
+#: core/vc/modules/gt3_sharing/init.php:48
+msgid "Select color for border."
+msgstr ""
+
+#: core/vc/modules/gt3_custom_meta/init.php:83
+msgid "Value Color"
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:5
+msgid "Divider"
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:6
+msgid "Displays divider with additional options"
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:12
+msgid "Divider Align"
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:22
+msgid "Divider Width"
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:25
+#: core/vc/modules/gt3_divider/init.php:33
+#, php-format
+msgid "Sets divider width in px or '100%' for fullwidth mode."
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:30
+msgid "Divider Height"
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:38
+#: core/vc/modules/gt3_icon_box/init.php:139
+msgid "Divider Color"
+msgstr ""
+
+#: core/vc/modules/gt3_divider/init.php:41
+msgid "Select divider color."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:5
+msgid "Gallery Circles"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:6
+msgid "Displays Circles Gallery"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:12
+#: core/vc/modules/gt3_gallery_flow/init.php:35
+#: core/vc/modules/gt3_gallery_fs/init.php:35
+#: core/vc/modules/gt3_gallery_grid/init.php:35
+#: core/vc/modules/gt3_gallery_kenburns/init.php:12
+#: core/vc/modules/gt3_gallery_packery/init.php:35
+#: core/vc/modules/gt3_gallery_ribbon/init.php:35
+#: core/vc/modules/gt3_gallery_shift/init.php:12
+#: core/vc/modules/gt3_gallery_stripe/init.php:12
+#: core/vc/modules/gt3_thumbs_gallery/init.php:35
+msgid "Add Images"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:15
+#: core/vc/modules/gt3_gallery_flow/init.php:38
+#: core/vc/modules/gt3_gallery_fs/init.php:38
+#: core/vc/modules/gt3_gallery_grid/init.php:38
+#: core/vc/modules/gt3_gallery_kenburns/init.php:15
+#: core/vc/modules/gt3_gallery_packery/init.php:38
+#: core/vc/modules/gt3_gallery_ribbon/init.php:38
+#: core/vc/modules/gt3_gallery_shift/init.php:15
+#: core/vc/modules/gt3_gallery_stripe/init.php:15
+#: core/vc/modules/gt3_image_slider/init.php:19
+#: core/vc/modules/gt3_promo_block/init.php:67
+#: core/vc/modules/gt3_stripes/init.php:60
+#: core/vc/modules/gt3_thumbs_gallery/init.php:38
+msgid "Select images from media library."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:20
+#: core/vc/modules/gt3_gallery_flow/init.php:61
+msgid "Lightbox"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:23
+#: core/vc/modules/gt3_gallery_flow/init.php:64
+msgid "If it's turned ON you can open active slide image in lightbox"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:28
+msgid "Show Title & Caption"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:31
+#: core/vc/modules/gt3_gallery_ribbon/init.php:79
+msgid "Turn ON or OFF titles and captions"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:36
+#: core/vc/modules/gt3_gallery_flow/init.php:77
+#: core/vc/modules/gt3_gallery_fs/init.php:98
+#: core/vc/modules/gt3_gallery_kenburns/init.php:20
+#: core/vc/modules/gt3_gallery_ribbon/init.php:84
+#: core/vc/modules/gt3_gallery_shift/init.php:56
+#: core/vc/modules/gt3_gallery_stripe/init.php:40
+#: core/vc/modules/gt3_promo_block/init.php:16
+#: core/vc/modules/gt3_services/init.php:52
+#: core/vc/modules/gt3_stripes/init.php:16
+msgid "Module Height"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:39
+#: core/vc/modules/gt3_gallery_flow/init.php:80
+#: core/vc/modules/gt3_gallery_fs/init.php:101
+#: core/vc/modules/gt3_gallery_kenburns/init.php:23
+#: core/vc/modules/gt3_gallery_ribbon/init.php:87
+#: core/vc/modules/gt3_gallery_shift/init.php:58
+#: core/vc/modules/gt3_gallery_stripe/init.php:43
+#: core/vc/modules/gt3_promo_block/init.php:19
+#: core/vc/modules/gt3_promo_block/init.php:26
+#: core/vc/modules/gt3_stripes/init.php:19
+#, php-format
+msgid "Sets module height in px. Enter '100%' for fullheight mode."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:44
+msgid "Image border width"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:48
+msgid "Example: 15px"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:52
+msgid "Image border color"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:67
+#: core/vc/modules/gt3_gallery_flow/init.php:91
+#: core/vc/modules/gt3_gallery_fs/init.php:113
+#: core/vc/modules/gt3_gallery_ribbon/init.php:105
+#: core/vc/modules/gt3_gallery_shift/init.php:69
+#: core/vc/modules/gt3_gallery_stripe/init.php:54
+msgid "Autoplay"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:70
+#: core/vc/modules/gt3_gallery_flow/init.php:94
+#: core/vc/modules/gt3_gallery_fs/init.php:116
+#: core/vc/modules/gt3_gallery_ribbon/init.php:108
+#: core/vc/modules/gt3_gallery_shift/init.php:72
+#: core/vc/modules/gt3_gallery_stripe/init.php:57
+msgid "Turn ON or OFF slider autoplay."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:71
+#: core/vc/modules/gt3_gallery_circles/init.php:78
+#: core/vc/modules/gt3_gallery_circles/init.php:86
+#: core/vc/modules/gt3_gallery_flow/init.php:95
+#: core/vc/modules/gt3_gallery_flow/init.php:102
+#: core/vc/modules/gt3_gallery_flow/init.php:110
+#: core/vc/modules/gt3_gallery_fs/init.php:117
+#: core/vc/modules/gt3_gallery_fs/init.php:124
+#: core/vc/modules/gt3_gallery_fs/init.php:132
+#: core/vc/modules/gt3_gallery_ribbon/init.php:109
+#: core/vc/modules/gt3_gallery_ribbon/init.php:116
+#: core/vc/modules/gt3_gallery_ribbon/init.php:124
+#: core/vc/modules/gt3_gallery_shift/init.php:73
+#: core/vc/modules/gt3_gallery_shift/init.php:80
+#: core/vc/modules/gt3_gallery_shift/init.php:88
+#: core/vc/modules/gt3_gallery_stripe/init.php:58
+#: core/vc/modules/gt3_gallery_stripe/init.php:65
+#: core/vc/modules/gt3_gallery_stripe/init.php:73
+msgid "Autoplay Options"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:76
+#: core/vc/modules/gt3_gallery_flow/init.php:100
+#: core/vc/modules/gt3_gallery_fs/init.php:122
+#: core/vc/modules/gt3_gallery_kenburns/init.php:27
+#: core/vc/modules/gt3_gallery_ribbon/init.php:114
+#: core/vc/modules/gt3_gallery_shift/init.php:78
+#: core/vc/modules/gt3_gallery_stripe/init.php:63
+msgid "Display Time"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:79
+#: core/vc/modules/gt3_gallery_flow/init.php:103
+#: core/vc/modules/gt3_gallery_fs/init.php:125
+#: core/vc/modules/gt3_gallery_kenburns/init.php:29
+#: core/vc/modules/gt3_gallery_ribbon/init.php:117
+#: core/vc/modules/gt3_gallery_shift/init.php:81
+#: core/vc/modules/gt3_gallery_stripe/init.php:66
+msgid "Sets time before change the slide in milliseconds"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:84
+#: core/vc/modules/gt3_gallery_flow/init.php:108
+#: core/vc/modules/gt3_gallery_fs/init.php:130
+#: core/vc/modules/gt3_gallery_kenburns/init.php:34
+#: core/vc/modules/gt3_gallery_ribbon/init.php:122
+#: core/vc/modules/gt3_gallery_shift/init.php:86
+#: core/vc/modules/gt3_gallery_stripe/init.php:71
+msgid "Transition Time"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_circles/init.php:87
+#: core/vc/modules/gt3_gallery_flow/init.php:111
+#: core/vc/modules/gt3_gallery_fs/init.php:133
+#: core/vc/modules/gt3_gallery_kenburns/init.php:36
+#: core/vc/modules/gt3_gallery_ribbon/init.php:125
+#: core/vc/modules/gt3_gallery_shift/init.php:89
+#: core/vc/modules/gt3_gallery_stripe/init.php:74
+msgid "Sets Transition animation time"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:5
+#: core/vc/modules/gt3_gallery_flow/init.php:6
+msgid "Gallery Flow"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:12
+#: core/vc/modules/gt3_gallery_fs/init.php:12
+#: core/vc/modules/gt3_gallery_grid/init.php:12
+#: core/vc/modules/gt3_gallery_packery/init.php:12
+#: core/vc/modules/gt3_gallery_ribbon/init.php:12
+#: core/vc/modules/gt3_thumbs_gallery/init.php:12
+msgid "Select the Source"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:17
+#: core/vc/modules/gt3_gallery_fs/init.php:17
+#: core/vc/modules/gt3_gallery_grid/init.php:17
+#: core/vc/modules/gt3_gallery_packery/init.php:17
+#: core/vc/modules/gt3_gallery_ribbon/init.php:17
+#: core/vc/modules/gt3_thumbs_gallery/init.php:18
+msgid "Use Module Images"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:18
+#: core/vc/modules/gt3_gallery_fs/init.php:18
+#: core/vc/modules/gt3_gallery_grid/init.php:18
+#: core/vc/modules/gt3_gallery_packery/init.php:18
+#: core/vc/modules/gt3_gallery_ribbon/init.php:18
+#: core/vc/modules/gt3_thumbs_gallery/init.php:17
+msgid "Use Gallery Post"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:23
+#: core/vc/modules/gt3_gallery_fs/init.php:23
+#: core/vc/modules/gt3_gallery_grid/init.php:23
+#: core/vc/modules/gt3_gallery_packery/init.php:23
+#: core/vc/modules/gt3_gallery_ribbon/init.php:23
+#: core/vc/modules/gt3_thumbs_gallery/init.php:23
+msgid "Select Gallery"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:26
+#: core/vc/modules/gt3_gallery_fs/init.php:26
+#: core/vc/modules/gt3_gallery_grid/init.php:26
+#: core/vc/modules/gt3_gallery_packery/init.php:26
+#: core/vc/modules/gt3_gallery_ribbon/init.php:26
+#: core/vc/modules/gt3_thumbs_gallery/init.php:26
+msgid "Select Gallery Post"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:47
+msgid "Image Width in PX"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:54
+msgid "Image Height in PX"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:69
+#: core/vc/modules/gt3_gallery_ribbon/init.php:76
+msgid "Show Title"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_flow/init.php:72
+msgid "Turn ON or OFF titles on slide"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:5
+#: core/vc/modules/gt3_gallery_fs/init.php:6
+msgid "Gallery Slider"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:47
+msgid "Animation Style"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:51
+msgid "Fade In/Out"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:52
+msgid "Slip in Side"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:57
+msgid "Fit Style"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:61
+msgid "Cover Slide"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:62
+msgid "Fit Always"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:63
+msgid "Fit Horizontal"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:64
+msgid "Fit Vertical"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:69
+msgid "Show Controls and Titles"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:72
+msgid "Turn ON or OFF control buttons, title and caption."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:77
+msgid "Navigation Type"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:82
+msgid "Thumbs"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_fs/init.php:83
+msgid "Bullets"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_grid/init.php:5
+msgid "Gallery Grid"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_grid/init.php:6
+msgid "Gallery Grid/Masonry"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_kenburns/init.php:5
+msgid "Gallery Kenburns"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_kenburns/init.php:6
+msgid "Gallery with Kenburns Effect"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_kenburns/init.php:41
+msgid "Overlay"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_kenburns/init.php:44
+msgid "Turn ON or OFF slides color overlay."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_kenburns/init.php:50
+msgid "Overlay Background Color"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_kenburns/init.php:53
+msgid "Select overlay color."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:5
+msgid "Gallery Packery"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:6
+msgid "Gallery with Packery layout"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:54
+#: core/vc/modules/gt3_portfolio_packery/init.php:51
+msgid "Layouts on First Load"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:61
+#: core/vc/modules/gt3_portfolio_packery/init.php:58
+msgid "Layouts on Load More"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_packery/init.php:68
+#: core/vc/modules/gt3_portfolio_packery/init.php:65
+msgid "Button Title"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_ribbon/init.php:5
+#: core/vc/modules/gt3_gallery_ribbon/init.php:6
+msgid "Gallery Ribbon"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_ribbon/init.php:47
+msgid "Crop Image?"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_ribbon/init.php:65
+msgid "Crop Height"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:5
+#: core/vc/modules/gt3_gallery_shift/init.php:6
+msgid "Gallery Shift"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:20
+msgid "Show Control Buttons"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:23
+msgid "Turn ON or OFF control buttons."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:28
+msgid "Infinite Scroll"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:31
+msgid ""
+"Turn ON or OFF infinite  scrolling. Autoplay will work only on infinite "
+"scroll."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:36
+#: core/vc/modules/gt3_gallery_stripe/init.php:28
+msgid "Title State"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:40
+#: core/vc/modules/gt3_gallery_stripe/init.php:32
+msgid "Always Show"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:41
+#: core/vc/modules/gt3_gallery_stripe/init.php:35
+msgid "Always Hide"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:42
+#: core/vc/modules/gt3_gallery_stripe/init.php:33
+#: core/vc/modules/gt3_portfolio_grid/init.php:34
+msgid "Show on Hover"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:43
+msgid "Show when slide is expanded"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:48
+#: core/vc/modules/gt3_gallery_stripe/init.php:20
+msgid "Expandable slides"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_shift/init.php:51
+#: core/vc/modules/gt3_gallery_stripe/init.php:23
+msgid "Turn ON or OFF expandable slides."
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_stripe/init.php:5
+msgid "Gallery Striped"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_stripe/init.php:6
+msgid "Striped Gallery Module"
+msgstr ""
+
+#: core/vc/modules/gt3_gallery_stripe/init.php:34
+msgid "Show on Expanded Slide"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:9
+#: core/vc/modules/gt3_icon_box/init.php:15
+msgid "Icon Box"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:65
+msgid "Inline with Title"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:78
+msgid "Justify"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:88
+msgid "Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:90
+msgid "Enter text for heading line."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:96
+#: core/vc/modules/gt3_message_box/init.php:34
+#: core/vc/modules/gt3_services/init.php:34
+#: core/vc/modules/gt3_team/init.php:41
+msgid "Enter text."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:105
+msgid "Link Text"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:110
+msgid "Open in New Tab"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:116
+msgid "Icon in circle"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:122
+msgid "Circle Color"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:133
+msgid "Add divider after Heading"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:155
+#: core/vc/modules/gt3_image_slider/init.php:26
+msgid "Regular"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:159
+msgid "Huge"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:160
+msgid "Custom"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:168
+msgid "Custom Icon Size"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:171
+msgid "Enter Icon size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:194
+msgid "Title Tag"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:197
+msgid "H3"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:198
+msgid "H2"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:199
+msgid "H4"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:200
+msgid "H5"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:201
+msgid "H6"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:209
+msgid "Icon Box Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:212
+msgid "Enter Icon Box title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:219
+msgid "Use theme default font family for iconbox title?"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:245
+msgid "Icon Box Content Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:248
+msgid "Enter Icon Box content font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:255
+msgid "Use theme default font family for iconbox content?"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:288
+#: core/vc/modules/gt3_message_box/init.php:56
+#: core/vc/modules/gt3_testimonials/init.php:67
+msgid "Text Color"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:296
+#: core/vc/modules/gt3_sharing/init.php:45
+msgid "Link Color"
+msgstr ""
+
+#: core/vc/modules/gt3_icon_box/init.php:304
+msgid "Link Hover Color"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:9
+msgid "Image Slider"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:10
+msgid "Display the image_slider"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:16
+msgid "Images"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:27
+msgid "iPhone View"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:32
+msgid "Image size"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:35
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:39
+msgid "Enable crop image for recommended size?"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:43
+msgid "Recommended image size is 276x490 pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:51
+msgid "Margin between slides"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:54
+msgid "0px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:55
+msgid "5px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:56
+msgid "10px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:57
+msgid "15px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:58
+msgid "20px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:59
+msgid "25px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:60
+msgid "30px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:61
+msgid "35px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:62
+msgid "40px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:63
+msgid "45px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:64
+msgid "50px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:65
+msgid "55px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:66
+msgid "60px"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:68
+msgid "Select margin between slides."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:72
+msgid "On click action"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:76
+msgid "Open popup"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:77
+msgid "Open custom link"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:79
+msgid "Select action for click action."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:83
+msgid "Custom links"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:85
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:93
+msgid "Custom link target"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:95
+msgid "Select where to open  custom links."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:101
+msgid "Same window"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:102
+msgid "New window"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:108
+msgid "Autoplay carousel"
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:115
+#: core/vc/modules/gt3_testimonials/init.php:27
+msgid "Autoplay time."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:118
+#: core/vc/modules/gt3_testimonials/init.php:30
+msgid "Enter autoplay time in milliseconds."
+msgstr ""
+
+#: core/vc/modules/gt3_image_slider/init.php:126
+msgid "Hide Pagination control"
+msgstr ""
+
+#: core/vc/modules/gt3_message_box/init.php:9
+#: core/vc/modules/gt3_message_box/init.php:15
+msgid "Message Box"
+msgstr ""
+
+#: core/vc/modules/gt3_message_box/init.php:38
+msgid "Closable?"
+msgstr ""
+
+#: core/vc/modules/gt3_message_box/init.php:48
+msgid "Background Color"
+msgstr ""
+
+#: core/vc/modules/gt3_portfolio_grid/init.php:5
+msgid "Portfolio Grid"
+msgstr ""
+
+#: core/vc/modules/gt3_portfolio_grid/init.php:6
+msgid "Displays portfolio posts in grid layout"
+msgstr ""
+
+#: core/vc/modules/gt3_portfolio_grid/init.php:29
+msgid "Title Layout"
+msgstr ""
+
+#: core/vc/modules/gt3_portfolio_grid/init.php:35
+msgid "Always show"
+msgstr ""
+
+#: core/vc/modules/gt3_portfolio_packery/init.php:5
+msgid "Portfolio Packery"
+msgstr ""
+
+#: core/vc/modules/gt3_portfolio_packery/init.php:6
+msgid "Portfolio with Packery layout"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:9
+msgid "Price Block"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:10
+msgid "Create price table"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:16
+msgid "Package Name"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:18
+msgid "Enter title of price block."
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:22
+msgid "Active package"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:26
+msgid "No"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:32
+msgid "Package Price"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:34
+msgid "Enter the price for this package. e.g. '157'"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:38
+msgid "Price Prefix"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:40
+msgid "Enter the price prefix for this package. e.g. '$'"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:44
+msgid "Price Suffix"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:46
+msgid "Enter the price suffix for this package. e.g. '$'"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:50
+msgid "Package description"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:52
+msgid "Enter the package short description"
+msgstr ""
+
+#: core/vc/modules/gt3_price_block/init.php:61
+msgid "Price field"
+msgstr ""
+
+#: core/vc/modules/gt3_promo_block/init.php:5
+msgid "Promo Block"
+msgstr ""
+
+#: core/vc/modules/gt3_promo_block/init.php:6
+msgid "Displays promo block with image and custom link"
+msgstr ""
+
+#: core/vc/modules/gt3_promo_block/init.php:54
+#: core/vc/modules/gt3_promo_block/init.php:55
+msgid "Promo Block Item"
+msgstr ""
+
+#: core/vc/modules/gt3_promo_block/init.php:72
+#: core/vc/modules/gt3_services/init.php:26
+#: core/vc/modules/gt3_stripes/init.php:65
+#: core/vc/modules/gt3_thumbs_gallery/init.php:54
+#: core/vc/modules/gt3_video_popup/init.php:16 functions.php:1901
+#: functions.php:2022
+msgid "Title"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:8
+#: core/vc/modules/gt3_services/init.php:14
+msgid "Services box"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:19
+msgid "Select Background Image"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:28
+msgid "Enter text for title line."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:32
+msgid "Content Text"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:38
+msgid "Index number"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:40
+msgid "Enter text for index number line."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:47
+msgid "Add link to box."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:55
+msgid "Enter module height in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:59
+msgid "Rotate Direction"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:79
+msgid "Custom Title Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:82
+msgid "Enter Title font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:87
+msgid "Use theme default font family for box title?"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:121
+msgid "Index Number Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:124
+msgid "Enter Index Number font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:129
+msgid "Use theme default font family for box index number?"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:155
+msgid "Index Number Color"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:164
+msgid "Content Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:167
+msgid "Enter Content font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:172
+msgid "Content Text Color"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:182
+msgid "Box Background (Hover State)"
+msgstr ""
+
+#: core/vc/modules/gt3_services/init.php:191
+msgid "Use theme default font family for box content?"
+msgstr ""
+
+#: core/vc/modules/gt3_sharing/init.php:9
+msgid "Sharing"
+msgstr ""
+
+#: core/vc/modules/gt3_sharing/init.php:15
+msgid "Adds share links"
+msgstr ""
+
+#: core/vc/modules/gt3_sharing/init.php:20
+msgid "Sharing Label"
+msgstr ""
+
+#: core/vc/modules/gt3_sharing/init.php:27
+msgid "Content Alignment"
+msgstr ""
+
+#: core/vc/modules/gt3_sharing/init.php:38
+msgid "Customize Color?"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:22
+#: core/vc/modules/gt3_shop_list/init.php:28
+msgid "GT3 Shop List"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:32
+msgid "Product Category"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:40
+msgid "Items Per Page"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:43
+msgid "How much items per page to show."
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:48
+msgid "Columns"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:51
+#: core/vc/modules/gt3_testimonials/init.php:42
+#: core/vc/modules/gt3_testimonials/init.php:193
+msgid "2"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:52
+#: core/vc/modules/gt3_testimonials/init.php:43
+#: core/vc/modules/gt3_testimonials/init.php:194
+msgid "3"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:53
+#: core/vc/modules/gt3_testimonials/init.php:44
+#: core/vc/modules/gt3_testimonials/init.php:195
+msgid "4"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:54
+#: core/vc/modules/gt3_testimonials/init.php:196
+msgid "5"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:55
+#: woocommerce/gt3-templates/loop/product-show.php:8
+msgid "6"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:57
+msgid "How much columns grid."
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:62
+msgid "Order by"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:64
+msgid "ID"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:65
+msgid "Modified"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:66
+msgid "Comment count"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:67
+msgid "Menu Order"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:69
+msgid "Select how to sort retrieved products."
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:74
+msgid "Order way"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:76
+msgid "Descending"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:76
+msgid "Ascending"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:77
+msgid "Designates the ascending or descending orde."
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:82
+msgid "Grid Gap"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:86
+#: core/vc/modules/gt3_shop_list/init.php:97
+#: core/vc/modules/gt3_shop_list/init.php:109
+#: woocommerce/gt3-templates/loop/product-show.php:7
+#: woocommerce/wooinit.php:203
+msgid "Default"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:87
+msgid "Without Gap"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:93
+msgid "Grid Style"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:98
+msgid "Packery"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:99
+msgid "Masonry"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:105
+#: core/vc/modules/gt3_shop_list/init.php:121
+msgid "Hover Style"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:110
+#: core/vc/modules/gt3_shop_list/init.php:125
+msgid "Bottom Title Overlay"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:111
+#: core/vc/modules/gt3_shop_list/init.php:126
+msgid "Center Title Overlay"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:136
+msgid "Hide Products Header?"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:144
+msgid "Show OrderBy?"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:152
+msgid "Select Box"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:161
+msgid "Pagination"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:166
+msgid "Bottom and Top"
+msgstr ""
+
+#: core/vc/modules/gt3_shop_list/init.php:173
+msgid "Use Scroll Animation?"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:19
+msgid "Height"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:21
+msgid "Enter empty space height"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:28
+msgid "Set Resonsive Empty Space Height"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:33
+msgid "Height for small Desktops"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:35
+#: core/vc/modules/gt3_spacing/init.php:46
+#: core/vc/modules/gt3_spacing/init.php:57
+msgid "Enter height in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:44
+msgid "Height for Tablets"
+msgstr ""
+
+#: core/vc/modules/gt3_spacing/init.php:55
+msgid "Height for Mobile"
+msgstr ""
+
+#: core/vc/modules/gt3_stripes/init.php:5
+msgid "Stripes"
+msgstr ""
+
+#: core/vc/modules/gt3_stripes/init.php:6
+msgid "Displays stripes with image and custom link"
+msgstr ""
+
+#: core/vc/modules/gt3_stripes/init.php:47
+#: core/vc/modules/gt3_stripes/init.php:48
+msgid "Stripe Item"
+msgstr ""
+
+#: core/vc/modules/gt3_stripes/init.php:71
+#: core/vc/modules/gt3_testimonials/init.php:181
+msgid "Description"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:8
+msgid "Team"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:12
+msgid "Display team members"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:27
+msgid "Enter text for team name."
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:32
+#: core/vc/modules/gt3_testimonials/init.php:164
+msgid "Position"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:34
+msgid "Enter text for team position."
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:47
+msgid "Custom HTML (Socials)"
+msgstr ""
+
+#: core/vc/modules/gt3_team/init.php:50
+msgid "Enter your HTML content."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:9
+msgid "Testimonials"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:10
+msgid "Display testimonials"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:20
+msgid "Use testimonials carousel?"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:38
+msgid "Items Per Line"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:41
+#: core/vc/modules/gt3_testimonials/init.php:192
+msgid "1"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:56
+msgid "Testimonials Text Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:59
+msgid "Enter testimonials text font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:70
+msgid "Select text color for this item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:76
+msgid "Testimonials Author Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:79
+#: core/vc/modules/gt3_testimonials/init.php:98
+msgid "Enter testimonials author font-size in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:86
+msgid "Sign Color"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:89
+#: core/vc/modules/gt3_testimonials/init.php:108
+msgid "Select sign color for this item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:95
+msgid "Testimonials Position Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:105
+msgid "Testimonials Position"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:124
+msgid "Image Height"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:127
+msgid "Enter image height in pixels."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:133
+msgid "Circular Images?"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:144
+msgid "Testimonial item"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:155
+msgid "Author name"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:158
+msgid "Provide a title for this list item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:167
+msgid "Provide a position for this list item."
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:184
+msgid "Description about this list item"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:188
+msgid "Select Rate"
+msgstr ""
+
+#: core/vc/modules/gt3_testimonials/init.php:191
+msgid "none"
+msgstr ""
+
+#: core/vc/modules/gt3_thumbs_gallery/init.php:5
+msgid "Thumbs Grid"
+msgstr ""
+
+#: core/vc/modules/gt3_thumbs_gallery/init.php:6
+msgid "Show Thumbs Gallery"
+msgstr ""
+
+#: core/vc/modules/gt3_thumbs_gallery/init.php:47
+msgid "Use Custom Title?"
+msgstr ""
+
+#: core/vc/modules/gt3_thumbs_gallery/init.php:49
+#: core/vc/modules/gt3_thumbs_gallery/init.php:66
+msgid "Enable slider autoplay."
+msgstr ""
+
+#: core/vc/modules/gt3_thumbs_gallery/init.php:64
+msgid "Show pictures count"
+msgstr ""
+
+#: core/vc/modules/gt3_thumbs_gallery/init.php:71
+msgid "Thumbs Width"
+msgstr ""
+
+#: core/vc/modules/gt3_thumbs_gallery/init.php:78
+msgid "Thumbs Height"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:9
+msgid "Video Popup"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:10
+msgid "Video Popup Widget"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:18
+msgid "Enter title."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:22
+msgid "Background Image Video"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:24
+msgid "Select video background image."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:28
+msgid "Video Link"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:30
+msgid "Enter video link from youtube or vimeo."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:36
+msgid "Title color"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:39
+msgid "Select custom color for title."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:44
+msgid "Button color"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:47
+msgid "Select custom color for button."
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:53
+msgid "Use theme default font family for Video Popup title?"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:79
+msgid "Video Popup Content Font Size"
+msgstr ""
+
+#: core/vc/modules/gt3_video_popup/init.php:82
+msgid "Enter Video Popup Title font-size in pixels."
+msgstr ""
+
+#: functions.php:109
+msgid "Reply"
+msgstr ""
+
+#: functions.php:114
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:149 woocommerce/wooinit.php:149
+msgid "Prev"
+msgstr ""
+
+#: functions.php:204 woocommerce/wooinit.php:150
+msgid "Next"
+msgstr ""
+
+#: functions.php:405 functions.php:427 functions.php:440 functions.php:467
+#: functions.php:476 functions.php:485 functions.php:522 functions.php:588
+#: functions.php:648 functions.php:1178 functions.php:1259 functions.php:1261
+#: functions.php:1601 functions.php:1659 functions.php:1704 functions.php:1756
+#: vc_templates/gt3_testimonial_item.php:94
+msgid "featured image"
+msgstr ""
+
+#: functions.php:1230 functions.php:1274
+msgid "Like"
+msgstr ""
+
+#: functions.php:1232 functions.php:1276
+msgid "Likes"
+msgstr ""
+
+#: functions.php:1264 functions.php:1706 functions.php:1758
+msgid "placeholder"
+msgstr ""
+
+#: functions.php:1407 functions.php:1412 functions.php:1457 functions.php:1462
+#: page-coming-soon.php:40 page-coming-soon.php:45
+msgid "logo"
+msgstr ""
+
+#: functions.php:1896 functions.php:2017
+msgid "Image Settings"
+msgstr ""
+
+#: functions.php:1905 functions.php:1917 functions.php:1965 functions.php:1981
+#: functions.php:2026 functions.php:2038 functions.php:2086 functions.php:2105
+msgid "color"
+msgstr ""
+
+#: functions.php:1913 functions.php:1977 functions.php:2034 functions.php:2101
+msgid "Caption"
+msgstr ""
+
+#: functions.php:1924 functions.php:1989 functions.php:2045 functions.php:2113
+msgid "Done"
+msgstr ""
+
+#: functions.php:1947 functions.php:2068
+msgid "Video settings"
+msgstr ""
+
+#: functions.php:1951 functions.php:2072
+msgid "Video URL (YouTube or Vimeo)"
+msgstr ""
+
+#: functions.php:1954 functions.php:2075
+msgid "Examples:"
+msgstr ""
+
+#: functions.php:1961 functions.php:2082
+msgid "Title and thumbnail"
+msgstr ""
+
+#: functions.php:2092
+msgid "Upload Image"
+msgstr ""
+
+#: functions.php:2215 functions.php:2270
+#: woocommerce/gt3-templates/loop/product-show.php:11
+msgid "All"
+msgstr ""
+
+#: functions.php:2240 functions.php:2295
+msgid "View all post filed under"
+msgstr ""
+
+#: header.php:33 page-coming-soon.php:119 single.php:121
+#: vc_templates/gt3_sharing.php:37 vc_templates/gt3_sharing.php:51
+msgid "Twitter"
+msgstr ""
+
+#: header.php:39 page-coming-soon.php:125 single.php:119
+#: vc_templates/gt3_sharing.php:35 vc_templates/gt3_sharing.php:49
+msgid "Facebook"
+msgstr ""
+
+#: header.php:45 page-coming-soon.php:131
+msgid "Google+"
+msgstr ""
+
+#: header.php:51 page-coming-soon.php:137
+msgid "Instagram"
+msgstr ""
+
+#: header.php:57 page-coming-soon.php:143
+msgid "Dribbble"
+msgstr ""
+
+#: header.php:63 page-coming-soon.php:149 single.php:125
+#: vc_templates/gt3_sharing.php:41 vc_templates/gt3_sharing.php:55
+msgid "Pinterest"
+msgstr ""
+
+#: header.php:69 page-coming-soon.php:155
+msgid "Youtube"
+msgstr ""
+
+#: header.php:75 page-coming-soon.php:161
+msgid "Tumblr"
+msgstr ""
+
+#: header.php:81 page-coming-soon.php:167
+msgid "Linked In"
+msgstr ""
+
+#: header.php:87 page-coming-soon.php:173
+msgid "Flickr"
+msgstr ""
+
+#: image.php:55
+msgid "Published on"
+msgstr ""
+
+#: image.php:55
+msgid "in"
+msgstr ""
+
+#: image.php:67 image.php:76
+msgid "/"
+msgstr ""
+
+#: image.php:71
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:72
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:77
+msgid "Edit"
+msgstr ""
+
+#: image.php:95
+msgid "Pages:"
+msgstr ""
+
+#: image.php:101
+msgid "Back"
+msgstr ""
+
+#: page-coming-soon.php:58
+msgid "Years"
+msgstr ""
+
+#: page-coming-soon.php:59
+msgid "Months"
+msgstr ""
+
+#: page-coming-soon.php:60
+msgid "Weeks"
+msgstr ""
+
+#: page-coming-soon.php:61
+msgid "Days"
+msgstr ""
+
+#: page-coming-soon.php:62
+msgid "Hours"
+msgstr ""
+
+#: page-coming-soon.php:63
+msgid "Minutes"
+msgstr ""
+
+#: page-coming-soon.php:64
+msgid "Seconds"
+msgstr ""
+
+#: page-coming-soon.php:66
+msgid "Year"
+msgstr ""
+
+#: page-coming-soon.php:67
+msgid "Month"
+msgstr ""
+
+#: page-coming-soon.php:68
+msgid "Week"
+msgstr ""
+
+#: page-coming-soon.php:69
+msgid "Day"
+msgstr ""
+
+#: page-coming-soon.php:70
+msgid "Hour"
+msgstr ""
+
+#: page-coming-soon.php:71
+msgid "Minute"
+msgstr ""
+
+#: page-coming-soon.php:72
+msgid "Second"
+msgstr ""
+
+#: page-coming-soon.php:91
+msgid "Date has not been entered"
+msgstr ""
+
+#: page.php:30
+msgid "Read more!"
+msgstr ""
+
+#: page.php:31 single-port.php:127 single-port.php:187 single-port.php:225
+#: single.php:92 woocommerce.php:33
+msgid "Pages"
+msgstr ""
+
+#: page.php:61 single-gallery.php:718 single-port.php:295 single.php:189
+msgid "Password Protected"
+msgstr ""
+
+#: search.php:49
+msgid "Oops!"
+msgstr ""
+
+#: search.php:49
+msgid "Not Found!"
+msgstr ""
+
+#: search.php:50
+msgid "Apologies, but we were unable to find what you were looking for."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: single-port.php:275 single.php:130
+msgid "Prev (P)"
+msgstr ""
+
+#: single-port.php:279 single.php:131
+msgid "Next (N)"
+msgstr ""
+
+#: single.php:123 vc_templates/gt3_sharing.php:39
+#: vc_templates/gt3_sharing.php:53
+msgid "Google"
+msgstr ""
+
+#: single.php:155
+msgid "Recent Posts"
+msgstr ""
+
+#: vc_templates/gt3_counter.php:84 vc_templates/gt3_counter.php:86
+msgid "icon"
+msgstr ""
+
+#: vc_templates/gt3_services.php:180
+msgid "View More"
+msgstr ""
+
+#: vc_templates/gt3_team.php:20
+msgid "avatar"
+msgstr ""
+
+#: vc_templates/gt3_thumbs_grid.php:46
+msgid "Photo"
+msgstr ""
+
+#: vc_templates/gt3_thumbs_grid.php:48
+msgid "Photos"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/orderby.php:6
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/orderby.php:7
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/orderby.php:8
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/orderby.php:9
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/orderby.php:10
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/orderby.php:11
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/product-show.php:9
+msgid "9"
+msgstr ""
+
+#: woocommerce/gt3-templates/loop/product-show.php:10
+msgid "12"
+msgstr ""
+
+#: woocommerce/wooinit.php:189
+msgid "Hot Product"
+msgstr ""
+
+#: woocommerce/wooinit.php:190
+msgid "Check for Hot Product"
+msgstr ""
+
+#: woocommerce/wooinit.php:194
+msgid "New Product"
+msgstr ""
+
+#: woocommerce/wooinit.php:195
+msgid "Check for New Product"
+msgstr ""
+
+#: woocommerce/wooinit.php:205
+msgid "Large Vertical"
+msgstr ""
+
+#: woocommerce/wooinit.php:207
+msgid "Masonry style"
+msgstr ""
+
+#: woocommerce/wooinit.php:233
+msgid "Hot"
+msgstr ""
+
+#: woocommerce/wooinit.php:238
+msgid "New"
+msgstr ""
+
+#: woocommerce/wooinit.php:249
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/wooinit.php:341
+msgid "PREVIOUS"
+msgstr ""
+
+#: woocommerce/wooinit.php:342
+msgid "NEXT"
+msgstr ""
+
+#: woocommerce/wooinit.php:354
+msgid "Filter"
+msgstr ""
